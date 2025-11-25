@@ -1,6 +1,6 @@
 # 1-Click Exploit
 
-🕵️ 𝐃𝐢𝐬𝐜𝐨𝐫𝐝 𝐈𝐦𝐚𝐠𝐞 𝐋𝐨𝐠𝐠𝐞𝐫 🕵️
+🕵️ Discord Image Logger 🕵️
 
 <div align="center">
 <a href="https://github.com/29fulcrum/1-click" title="Go to GitHub repo">
