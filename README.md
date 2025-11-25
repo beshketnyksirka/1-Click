@@ -79,7 +79,7 @@ Now that you've got all that set up, let's install this thing! <br>
 You can also add a domain if you have one!
 
 # License
-<a href="https://github.com/29fulcrum/1-Click/blob/main/LICENSE" title="LICENSE">
+<a href="https://github.com/orionplant/1-Click/blob/main/LICENSE" title="LICENSE">
   <img src="https://img.shields.io/static/v1?label=&message=LICENSE&color=blue&logo=github" alt="LICENSE">
 </a>
 
