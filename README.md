@@ -6,8 +6,6 @@
 <a href="https://github.com/29fulcrum/1-click" title="Go to GitHub repo">
   <img src="https://img.shields.io/static/v1?label=29fulcrum&message=1-click&color=purple&logo=github" alt="29fulcrum - 1-click">
 </a>
-  <a href="https://discord.gg/VQUvAVpJPr" style="text-decoration: none;">
-  <img src="https://discord.com/api/guilds/1336059889524670534/widget.png?style=shield" alt="Discord Shield"/>
 </div>
 
 # 🔧 Configuration
