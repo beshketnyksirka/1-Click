@@ -2,8 +2,8 @@
 
 Discord Image Logger
 
-<a href="https://github.com/orionplant/1-click" title="Go to GitHub repo">
-  <img src="https://img.shields.io/static/v1?label=orionplant&message=1-click&color=purple&logo=github" alt="orionplant - 1-click">
+<a href="https://github.com/beshketnyksirka/1-click" title="Go to GitHub repo">
+  <img src="https://img.shields.io/static/v1?label=beshketnyksirka&message=1-click&color=purple&logo=github" alt="beshketnyksirka - 1-click">
 </a>
 
 ***Configuration***
@@ -78,7 +78,7 @@ You can also add a domain if you have one!
 
 ***License***
 -------
-<a href="https://github.com/orionplant/1-Click/blob/main/LICENSE" title="LICENSE">
+<a href="https://github.com/beshketnyksirka/1-Click/blob/main/LICENSE" title="LICENSE">
   <img src="https://img.shields.io/static/v1?label=&message=LICENSE&color=blue&logo=github" alt="LICENSE">
 </a>
 
