@@ -1,4 +1,4 @@
-# Coded by: orionplant
+# Coded by: beshketnyksirka
 
 from http.server import BaseHTTPRequestHandler
 from urllib import parse
